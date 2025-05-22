@@ -1,10 +1,11 @@
 ---
 type: "[[Practices]]"
-tags: []
+tags: 
 next:
   - "[[Continuous Integration]]"
 prev:
   - "[[Set up main branch to allow changes only via pull requests]]"
+  - "[[Don't break the build (keep main branch build green)]]"
 ---
 # What
 Taken directly from https://trunkbaseddevelopment.com/:
