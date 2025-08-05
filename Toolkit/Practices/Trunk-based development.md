@@ -3,9 +3,13 @@ type: "[[Practices]]"
 tags: 
 next:
   - "[[Continuous Integration]]"
+  - "[[Continuous Delivery]]"
+  - "[[Low Lead Time]]"
+  - "[[Small Batch Sizes]]"
 prev:
   - "[[Set up main branch to allow changes only via pull requests]]"
   - "[[Don't break the build (keep main branch build green)]]"
+  - "[[Feature Flags]]"
 ---
 # What
 Taken directly from https://trunkbaseddevelopment.com/:
