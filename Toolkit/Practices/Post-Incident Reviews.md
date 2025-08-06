@@ -6,6 +6,7 @@ next:
   - "[[Low Change Failure Rate]]"
 prev:
   - "[[Incident Response Procedures]]"
+  - "[[Retrospectives]]"
 ---
 # What
 Post-incident reviews (also known as postmortems or after-action reviews) are structured discussions that occur after incidents to understand what happened, why it happened, what worked well, and what can be improved. They focus on learning rather than blame.

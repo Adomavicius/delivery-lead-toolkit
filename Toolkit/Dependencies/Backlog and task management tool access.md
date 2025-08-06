@@ -2,6 +2,7 @@
 type: "[[Dependencies]]"
 tags: []
 next: 
+  - "[[Implement backlog management processes]]"
 prev:
 ---
 # What
