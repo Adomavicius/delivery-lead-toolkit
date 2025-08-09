@@ -2,6 +2,7 @@
 type: "[[Dependencies]]"
 tags: []
 next: 
+  - "[[Set up documentation standards]]"
 prev:
 ---
 # What

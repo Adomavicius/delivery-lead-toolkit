@@ -2,6 +2,10 @@
 type: "[[Dependencies]]"
 tags: []
 next: 
+  - "[[Pair Programming]]"
+  - "[[Establish incident response procedures]]"
+  - "[[Establish team communication practices]]"
+  - "[[Define team working agreements]]"
 prev:
 ---
 # What

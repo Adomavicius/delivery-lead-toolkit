@@ -4,6 +4,7 @@ tags: []
 next:
   - "[[Don't break the build (keep main branch build green)]]"
   - "[[Trunk-based development]]"
+  - "[[Small Batch Sizes]]"
 prev:
   - "[[Source control repository access]]"
 ---
